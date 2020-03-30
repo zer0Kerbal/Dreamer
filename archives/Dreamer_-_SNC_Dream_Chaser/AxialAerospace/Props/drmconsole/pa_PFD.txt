@@ -1,0 +1,20 @@
+[@y5][#00ffffff] {0:SIP_6.1}m                       {1:SIP4}m/s    $&$ ALTITUDE SURFSPEED
+
+      [#ffffffff]          [@x2]{0,6:000.0}° $&$ HEADING
+ [#00ffffff]{0:SIP_6.1}m                      {1:SIP4}m/s     $&$ ORBTSPEED ACCEL
+
+[#00ffffff]  {0:ORB;TGT;SRF}                                  $&$ SPEEDDISPLAYMODE 
+
+ [#ffffffff] [@x-3]{0,6:000.0}°                        [@x2]{1,6:000.0}° $&$ ROLL PITCH
+
+ {0,-3:"[#00ffffff]SAS[#00000000]";0;   }                               [@x8]{1,-4:"[#00ffffff]GEAR [#ffffffff]";0;  } $&$ SAS GEAR
+
+ {0,-3:"[#00ffffff]RCS[#ffffffff]";0;   }                            [@x8]{1,-3:"[#00ffffff]BRAKES[#ffffffff]";0;   } $&$ RCS BRAKES
+
+                                  [#0044ffff][hw]speed mode->
+ [#0044ffff][@y8] [hw]Throttle: {0,5:P0} [/hw]                             $&$ THROTTLE 
+
+ {0:"";"                                        ";""}[#55FFFF55]-Node in T----- Est.Burn --------ΔV:--------- $&$MNODEEXISTS
+{3:"";"[#848484FF]                                                   ";""}[#{0:"FFFF00FF";"00FFFFFF";"FFFF00FF"}]{0:KDT+h:mm:ss.f}[#0000FFFF] [#00FFFFFF]     {4:KDTmm:ss.f}   [#0000FFFF]  [#81BEF7FF] {1,9:0.00}$&$ MNODETIMESECS  MNODEDV THROTTLE MNODEEXISTS MNODEBURNTIMESECS 
+
+ [#00aaffff] {0:SIP_6.3}m       {1:SIP_6.3}m/s    {2:SIP_6.3}m/s      $&$RADARALT HORZVELOCITY VERTSPEED

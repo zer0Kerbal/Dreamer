@@ -18,8 +18,7 @@ Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][M
 #### Hero Shots  
 ***(click on image to go to album)***  
 [![Hero I][IMG:hero:0]][IMGUR:album:0]  
-[![Hero II][IMG:hero:2][IMGUR:album:0]  
-
+[![Hero II][IMG:hero:2]][IMGUR:album:0]  
 #### Glorius IVA compliments of RPM   
 ***(click on image to go to album)***  
 [![IVA][IMG:hero:1]][IMGUR:album:1]  

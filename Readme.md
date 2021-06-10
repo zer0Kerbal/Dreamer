@@ -22,7 +22,9 @@ Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curse
 #### Glorius IVA compliments of RPM   
 ***(click on image to go to album)***  
 [![IVA][IMG:hero:1]][IMGUR:album:1]  
+***  
 
+[Link to Craft File][LINK:craft:0]  
 ### What's included:
  - **Two versions of the body** - one that's true to the original, and one that adds a small payload bay. The payload bay is one of a few changes that I've made to the Dream Chaser (all of them optional... you CAN build and set it up to fly true to the prototype if accuracy is your thing.) because I want this to be a mod that people can actually use - rather than being like some of the awesome mods on here that realistically capture every detail of a real world craft... but don't really have any 'playability' - so you launch them once to marvel at the model... then either delete it or let it slow down your game load times forever... but never really PLAY with it. These are game pieces... not museum collectibles.
  - **Two versions of the nose section** - one that just has internal space to attach pieces - batteries, computers, small rcs tanks, etc... and one that adds an Orbiter Delta-Glider style docking port in the nose.
@@ -186,6 +188,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal "
 [LINK:artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-artwhaley/ "artwhaley"
 [LINK:mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-mike-nz/ "Mike-NZ"
+[LINK:craft:0] https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"  
 
 [IMG:hero:0]: https://i.imgur.com/NKiQQHk.png "Hero Pose"
 [IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png "Updated IVA"

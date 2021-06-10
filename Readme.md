@@ -95,9 +95,9 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 
 ###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 10 Jun 2021 zed'K
 
-[MOD:license]:      https://github.com/zer0Kerbal/Dreamer/blob/master/LICENSE	"License"
-[MOD:contributing]: https://github.com/zer0Kerbal/Dreamer/blob/master/.github/CONTRIBUTING.md	"Contributing"
-[MOD:issues]:       https://github.com/zer0Kerbal/Dreamer/issues	""Issues""
+[MOD:license]:      https://github.com/zer0Kerbal/Dreamer/blob/master/LICENSE "License"
+[MOD:contributing]: https://github.com/zer0Kerbal/Dreamer/blob/master/.github/CONTRIBUTING.md "Contributing"
+[MOD:issues]:       https://github.com/zer0Kerbal/Dreamer/issues "Issues"
 [MOD:wiki]:         https://github.com/zer0Kerbal/Dreamer/	"Wiki"
 [MOD:known]:        https://github.com/zer0Kerbal/Dreamer/wiki/Known-Issues	"Known Issues"
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
@@ -111,22 +111,14 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [MOD:original:license]: http://www.wtfpl.net/about/	""WTFPL""
 [KSP:website]: http://kerbalspaceprogram.com/	"Kerbal Space Program"
 
-
-
 [LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png	"GPLv3 Logo"
 [LOGO:wtfpl]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
 
-
-
 [MOD:rel-github]: https://github.com/zer0Kerbal/Dreamer/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746	""SpaceDock""
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer	"Curseforge"
+[MOD:rel-spacedock]: http://spacedock.info/mod/1746 SpaceDock"  
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"
 
-
-
-[MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*	"CKAN"
-
-
+[MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
 [image:rel-spacedock]: https://i.imgur.com/m0a7tn2.png
@@ -140,8 +132,6 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [image:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png
 [image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
-
-
 
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Dreamer?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/mod.json

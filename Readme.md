@@ -1,11 +1,11 @@
-<!-- Readme.md v1.0.2.0
-Dreamer (SYD)
+<!-- Readme.md v1.0.3.0
+Dreamer (AAD)
 created: 01 Oct 19
-updated: 2020 03 16 -->
+updated: 10 Jun 2021 -->
 
 # KerbGuise Experimental  (KGEx) brings you: 
 
-Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].
+Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][LINK:ckan].
 
 # Axial Aerospace Dreamer (AAD)
 #### A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!
@@ -19,6 +19,7 @@ Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][M
 ***(click on image to go to album)***  
 [![Hero I][IMG:hero:0]][IMGUR:album:0]  
 [![Hero II][IMG:hero:2]][IMGUR:album:0]  
+
 #### Glorius IVA compliments of RPM   
 ***(click on image to go to album)***  
 [![IVA][IMG:hero:1]][IMGUR:album:1]  
@@ -49,7 +50,8 @@ Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][M
 ***
 
 ### Installation Directions:
-- Use CKAN
+- Use [![CKAN][image:ckan]][LINK:ckan]  
+
 ### Changelog Summary
 *See [ChangeLog][MOD:changelog] for full details of mod changes*
 
@@ -119,16 +121,16 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [MOD:rel-spacedock]: http://spacedock.info/mod/1746 "SpaceDock"
 [MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"
 
-[MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
+[LINK:ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
 [image:rel-spacedock]: https://i.imgur.com/m0a7tn2.png
 [image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
 [image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
 
-[image:rel-ckan]:    https://i.postimg.cc/x8XSVg4R/sj507JC.png
-[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
-[image:source]:      https://i.postimg.cc/tJ8GqW0H/source.png
+[image:ckan]:    https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
+[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png "Changelog"
+[image:source]:      https://i.postimg.cc/tJ8GqW0H/source.png "Source"
 
 [image:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png
 [image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png

@@ -8,18 +8,20 @@ updated: 2020 03 16 -->
 Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].
 
 # Axial Aerospace Dreamer (AAD)
-## d
+#### A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!
 ![Mod Version][shield:mod:latest] 
  [![][shield:ksp]][KSP:website]  ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:gplv3]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Validate AVC .version files][shield:avcvalid]  
 
 ***
-#### Hero Shots
+#### Hero Shots  
+***(click on image to go to album)***  
 [![Hero I][IMG:hero:0]][IMGUR:album:0]  
 [![Hero II][IMG:hero:2][IMGUR:album:0]  
 
-#### Glorius IVA compliments of RPM  
+#### Glorius IVA compliments of RPM   
+***(click on image to go to album)***  
 [![IVA][IMG:hero:1]][IMGUR:album:1]  
 
 ### What's included:
@@ -108,15 +110,15 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [MOD:original:source]: https://github.com/artwhaley/Dreamer
 [MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/126208-*
 [MOD:original:download]: https://github.com/artwhaley/Dreamer/releases/latest
-[MOD:original:license]: http://www.wtfpl.net/about/ "WTFPL"  
-[KSP:website]: http://kerbalspaceprogram.com/	"Kerbal Space Program"  
+[MOD:original:license]: http://www.wtfpl.net/about/ "WTFPL"
+[KSP:website]: http://kerbalspaceprogram.com/	"Kerbal Space Program"
 
 [LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png	"GPLv3 Logo"
 [LOGO:wtfpl]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/Dreamer/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746 "SpaceDock"  
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"  
+[MOD:rel-spacedock]: http://spacedock.info/mod/1746 "SpaceDock"
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"
 
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
 
@@ -188,7 +190,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 
 [IMG:hero:0]: https://i.imgur.com/NKiQQHk.png "Hero Pose"
 [IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png "Updated IVA"
-[IMG:her0:2]: https://i.imgur.com/YeRx3QM.png "Hero Pose II"
+[IMG:hero:2]: https://i.imgur.com/YeRx3QM.png "Hero Pose II"
 [IMGUR:album:0]: https://imgur.com/a/gd8Sp "Imgur Album"
 [IMGUR:album:1]: https://imgur.com/a/MbYJn "IVA Imgur Album"
 

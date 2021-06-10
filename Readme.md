@@ -108,15 +108,15 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [MOD:original:source]: https://github.com/artwhaley/Dreamer
 [MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/126208-*
 [MOD:original:download]: https://github.com/artwhaley/Dreamer/releases/latest
-[MOD:original:license]: http://www.wtfpl.net/about/	""WTFPL""
-[KSP:website]: http://kerbalspaceprogram.com/	"Kerbal Space Program"
+[MOD:original:license]: http://www.wtfpl.net/about/ "WTFPL"  
+[KSP:website]: http://kerbalspaceprogram.com/	"Kerbal Space Program"  
 
 [LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png	"GPLv3 Logo"
 [LOGO:wtfpl]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/Dreamer/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746 SpaceDock"  
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"
+[MOD:rel-spacedock]: http://spacedock.info/mod/1746 "SpaceDock"  
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"  
 
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
 

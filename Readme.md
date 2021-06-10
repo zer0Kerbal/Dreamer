@@ -15,11 +15,11 @@ Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][M
 ![Validate AVC .version files][shield:avcvalid]  
 
 ***
-#### Hero Shots1
+#### Hero Shots
 [![Hero I][IMG:hero:0]][IMGUR:album:0]  
 [![Hero II][IMG:hero:2][IMGUR:album:0]  
 
-#### Glorius IVA compliments of RPM
+#### Glorius IVA compliments of RPM  
 [![IVA][IMG:hero:1]][IMGUR:album:1]  
 
 ### What's included:
@@ -174,7 +174,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"
 [thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
-[thread:NSSC:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
+[thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"
 [thread:VG0]:  http:// "Vanguard"
 [thread:PRB]:  http:// "ProbiTronics"
@@ -189,18 +189,17 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
 
 [thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"
-[]: 
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
 
-[LINK:artwhaley]:    https://forum.kerbalspaceprogram.com/index.php?/profile/118388-artwhaley/ "artwhaley"
-
-[LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
+[LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal "
+[LINK:artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-artwhaley/ "artwhaley"
 [LINK:mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-mike-nz/ "Mike-NZ"
-[IMG:hero:0]: https://i.imgur.com/NKiQQHk.png	""Hero Pose""
-[IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png	""Updated IVA""
-[IMG:her0:2]: https://i.imgur.com/YeRx3QM.png	"Hero Pose II"
-[IMGUR:album:0]: https://imgur.com/a/gd8Sp	""Imgur Album""
+
+[IMG:hero:0]: https://i.imgur.com/NKiQQHk.png "Hero Pose"
+[IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png "Updated IVA"
+[IMG:her0:2]: https://i.imgur.com/YeRx3QM.png "Hero Pose II"
+[IMGUR:album:0]: https://imgur.com/a/gd8Sp "Imgur Album"
 [IMGUR:album:1]: https://imgur.com/a/MbYJn "IVA Imgur Album"
 
 <!--

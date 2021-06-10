@@ -1,13 +1,13 @@
 <!-- Readme.md v1.0.2.0
-ScrapYard (SYD)
+Dreamer (SYD)
 created: 01 Oct 19
 updated: 2020 03 16 -->
 <!-- # KerbGuise Experimental engineering (KGEx)
 #### Brings you: -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# ScrapYard (SYD)
-## The Common Part Inventory
+# Axial Aerospace Dreamer (AAD)
+## d
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
@@ -61,18 +61,18 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 
 ###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
 
-[MOD:license]:      https://github.com/zer0Kerbal/ScrapYard/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/ScrapYard/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]:       https://github.com/zer0Kerbal/ScrapYard/issues
-[MOD:wiki]:         https://github.com/zer0Kerbal/ScrapYard/
-[MOD:known]:        https://github.com/zer0Kerbal/ScrapYard/wiki/Known-Issues
+[MOD:license]:      https://github.com/zer0Kerbal/Dreamer/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/Dreamer/blob/master/.github/CONTRIBUTING.md
+[MOD:issues]:       https://github.com/zer0Kerbal/Dreamer/issues
+[MOD:wiki]:         https://github.com/zer0Kerbal/Dreamer/
+[MOD:known]:        https://github.com/zer0Kerbal/Dreamer/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
-[MOD:github:repo]:  https://github.com/zer0Kerbal/ScrapYard/
-[MOD:changelog]:    https://github.com/zer0Kerbal/ScrapYard/Changelog.cfg
+[MOD:github:repo]:  https://github.com/zer0Kerbal/Dreamer/
+[MOD:changelog]:    https://github.com/zer0Kerbal/Dreamer/Changelog.cfg
 <!--- original mod stuff -->
-[MOD:original:source]: https://github.com/severedsolo/ScrapYard
+[MOD:original:source]: https://github.com/severedsolo/Dreamer
 [MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/178641-*
-[MOD:original:download]: https://github.com/severedsolo/ScrapYard/releases/latest
+[MOD:original:download]: https://github.com/severedsolo/Dreamer/releases/latest
 
 [KSP:website]: http://kerbalspaceprogram.com/
 [LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
@@ -80,9 +80,9 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 [LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
 
-[MOD:rel-github]: https://github.com/zer0Kerbal/ScrapYard/releases/latest "GitHub"
+[MOD:rel-github]: https://github.com/zer0Kerbal/Dreamer/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/1746
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/scrapyard
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
@@ -98,16 +98,16 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/ScrapYard?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/license.json
+[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Dreamer?include_prereleases?style=plastic
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/mod.json
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/ksp.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:    https://github.com/zer0Kerbal/ScrapYard/workflows/Validate%20AVC%20.version%20files/badge.svg
+[shield:avcvalid]:    https://github.com/zer0Kerbal/Dreamer/workflows/Validate%20AVC%20.version%20files/badge.svg
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  

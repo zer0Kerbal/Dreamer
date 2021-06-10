@@ -3,11 +3,10 @@ Dreamer (AAD)
 created: 01 Oct 19
 updated: 10 Jun 2021 -->
 
-# KerbGuise Experimental  (KGEx) brings you: 
-
-Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][LINK:ckan].
-
+## KerbGuise Experimental  (KGEx) brings you: 
+***
 # Axial Aerospace Dreamer (AAD)
+Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][LINK:ckan].  
 #### A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!
 ![Mod Version][shield:mod:latest] 
  [![][shield:ksp]][KSP:website]  ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:gplv3]   
@@ -156,8 +155,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [thread:TCP]:  https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"
 [thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke Tiny Parts"
 [thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"
-[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"
-
+[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"  
 [thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions"
 [thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"
 [thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"
@@ -169,11 +167,11 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
 [thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"
-[thread:VG0]:  http:// "Vanguard"
-[thread:PRB]:  http:// "ProbiTronics"
-[thread:CTN]:  http:// "CTN"
-[thread:BSS]:  http:// "B9 Stock Switches"
-[thread:HB!]:  http:// "HotBeverages"
+[thread:VG0]:  https://kerbalspaceprogram.com "Vanguard"
+[thread:PRB]:  https://kerbalspaceprogram.com "ProbiTronics"
+[thread:CTN]:  https://kerbalspaceprogram.com "CTN"
+[thread:BSS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Switches"
+[thread:HB!]:  https://kerbalspaceprogram.com "HotBeverages"
 
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:sr]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"

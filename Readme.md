@@ -188,7 +188,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal "
 [LINK:artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-artwhaley/ "artwhaley"
 [LINK:mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-mike-nz/ "Mike-NZ"
-[LINK:craft:0] https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"  
+[LINK:craft:0]: https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"  
 
 [IMG:hero:0]: https://i.imgur.com/NKiQQHk.png "Hero Pose"
 [IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png "Updated IVA"

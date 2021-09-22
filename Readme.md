@@ -6,7 +6,7 @@ updated: 10 Jun 2021 -->
 ## KerbGuise Experimental  (KGEx) brings you: 
 ***
 # Axial Aerospace Dreamer (AAD)
-Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][LINK:ckan].  
+Download on [Curseforge][MOD:rel-curseforge] or [Github][MOD:rel-github] or [SpaceDock][MOD:rel-spacedock]. Also available on [CKAN][LINK:ckan].  
 #### A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!
 ![Mod Version][shield:mod:latest] 
  [![][shield:ksp]][KSP:website]  ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:gplv3]   
@@ -93,7 +93,7 @@ License: ![License MIT][shield:license] ![][LOGO:gplv3]
 Source: [GitHub][MOD:original:source]  
 License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]  
 <!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]  
+[![][image:rel-curseforge]][MOD:rel-curseforge] [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock]  
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
@@ -188,7 +188,7 @@ License: ![License WTFPL][shield:license:original] ![][LOGO:wtfpl]
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal "
 [LINK:artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-artwhaley/ "artwhaley"
 [LINK:mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-mike-nz/ "Mike-NZ"
-[LINK:craft:0] https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"  
+[LINK:craft:0]: https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"  
 
 [IMG:hero:0]: https://i.imgur.com/NKiQQHk.png "Hero Pose"
 [IMG:hero:1]: https://i.imgur.com/Iq5vOfW.png "Updated IVA"

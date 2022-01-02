@@ -1,0 +1,20 @@
+[hw][font1]     [#FFFFFFFF]Camera Feed 1                        [#FFFFFFFF]UT : [#FFFF00FF]{0:KDTyy:ddd:hh:mm:ss.f} $&$ UTSECS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         

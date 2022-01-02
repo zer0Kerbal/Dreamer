@@ -1,0 +1,19 @@
+[#00ffffff]{1:"Target: ";"";""}{0}{1:;"Target: [#00ffff30]NO TARGET";""} $&$ TARGETNAME TARGETEXISTS
+
+{1:;"                                        ";""} [#0000ffff]          Relative Pitch: [#00ffffff]{0,6:0.00}° [#0000ffff]  $&$ TARGETANGLEY  TARGETEXISTS
+{1:;"                                        ";""} [#0000ffff]          Y Distance: [#00ffffff]{0:SIP_6.3}m $&$TARGETDISTANCEY TARGETEXISTS
+
+[#00ffffff]{0:;;"    Please select a reference part "} $&$ ISREMOTEREFERENCE
+[#00ffffff]{0:;;"      in target management menu. "} $&$ ISREMOTEREFERENCE
+
+{1:;"                                        ";""}[#0000ffff][hw]CLOSURE DISTANCE:[/hw] [#00ffffff]{0:SIP_6.3}m$&$ TARGETDISTANCEZ   TARGETEXISTS
+{1:;"                                        ";""}[#0000ffff][hw]CLOSURE RATE: [/hw][#00ffffff]{0:SIP_6.3}m/s$&$ APPROACHSPEED   TARGETEXISTS
+{1:;"                                        ";""} [#0000ffff]                Relative Yaw: [#00ffffff]{0,6:0.00}° [#0000ffff]  $&$ TARGETANGLEX  TARGETEXISTS
+{1:;"                                        ";""} [#0000ffff]                X Distance: [#00ffffff]{0:SIP_6.3}m $&$TARGETDISTANCEX TARGETEXISTS
+
+
+{1:;"                                        ";""}[#0000ffff]rel. velocity - X: [/hw][#00ffffff]{0:SIP_6.3}m/s$&$ TGTRELX   TARGETEXISTS
+{1:;"                                        ";""}[#0000ffff]rel. velocity - Y: [/hw][#00ffffff]{0:SIP_6.3}m/s$&$ TGTRELY   TARGETEXISTS
+
+________________________________________
+ {0,-3:"[#00ffffff]SAS[#00000000]";0;   }                               [@x8]{1,-3:"[#00ffffff]RCS [#ffffffff]";0;    } $&$ SAS RCS

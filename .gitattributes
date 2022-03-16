@@ -1,5 +1,5 @@
-# .gitattributes v2.0.3.0
-# remove git lfs support for .psd
+# .gitattributes v2.0.2.0
+# add git lfs support for .psd
 #
 # handle .imgbotconfig
 *.imgbotconfig linguist-language=json
@@ -8,6 +8,7 @@
 * text=auto
 *.cs text diff=csharp
 # Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.c text
@@ -31,8 +32,11 @@
 *.mbm binary
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
+###############################################################################
 *            text=auto
+###############################################################################
 # Set the merge driver for project and solution files
+#
 # Merging from the command prompt will add diff markers to the files if there
 # are conflicts (Merging from VS is not affected by the settings below, in VS
 # the diff markers are never inserted). Diff markers may cause the following
@@ -40,6 +44,7 @@
 # these files as binary and thus will always conflict and require user
 # intervention with every merge. To do so, just comment the entries below and
 # uncomment the group further below
+###############################################################################
 *.sln        text eol=crlf
 *.csproj     text eol=crlf
 *.vbproj     text eol=crlf
@@ -73,10 +78,13 @@
 #*.filters   merge=binary
 #*.vcxitems  merge=binary
 ## GITATTRIBUTES FOR WEB PROJECTS
+#
 # These settings are for any web project.
+#
 # Details per file setting:
 #   text    These files should be normalized (i.e. convert CRLF to LF).
 #   binary  These files are binary and should be left untouched.
+#
 # Note that binary is a macro for -text -diff.
 ######################################################################
 # Auto detect
@@ -253,4 +261,3 @@ Procfile          text
 *.*rc             text
 # Ignore files (like .npmignore or .gitignore)
 *.*ignore         text
-*.* !text !filter !merge !diff

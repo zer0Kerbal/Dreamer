@@ -1,4 +1,9 @@
-﻿# .gitignore v2.0.0.2
+﻿# .gitignore v2.0.3.0
+# created:
+# updated: 22 Mar 2022
+# by zer0kerbal
+
+# 2.0.3.0 - add *.2do
 
 # Prerequisites
 *.d
@@ -50,24 +55,6 @@
 
 
 # zer0Kerbal common files
-Archive/
-Old/
-flaticons/
-Links/
-docs/*
-old/*
-NetKAN/*
-images.txt
-shields.md
-buildRelease.bat
-buildReleaseSub.bat
-deploy.bat
-deploySub.bat
-_buildRelease.bat
-_buildReleaseSub.bat
-_deploy.bat
-_deploySub.bat
-mod.version
 regex4loc.txt
 _*
 
@@ -174,3 +161,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 graphics/Thumbs.db
 *.old
+*.2do

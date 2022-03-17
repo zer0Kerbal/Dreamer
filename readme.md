@@ -166,7 +166,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 > License: [![License][LIC:org:shd]][LIC:org:url] ![License][LIC:org:log]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/126208-* "Dreamer Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-* "Dreamer Forum Thread"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Dreamer/discussions "Discussions"

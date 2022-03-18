@@ -16,7 +16,7 @@ updated: 05 Mar 2022 -->
 
 # Axial Aerospace Dreamer (AAD)
 
-A roughly 2/3 scale model of Sierra Nevada Corp's Dream Chaser vertical launch spaceplane with cargo bay and docking nosecone!
+A roughly 2/3 scale model of Kierra Kevada Corp's Dream Kaser vertical launch spaceplane with cargo bay and docking nosecone!
 
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`artwhaley`][LINK:artwhaley]
 

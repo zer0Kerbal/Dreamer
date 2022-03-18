@@ -28,12 +28,6 @@
 		"MINOR" : 7,
 		"PATCH" : 3
 	},
-	"KSP_VERSION_MAX" :
-	{
-		"MAJOR" : 1,
-		"MINOR" : 12,
-		"PATCH" : 9999
-	},
 	"INSTALL_LOC" :
 	{
 		"NAME"      : "Dreamer",

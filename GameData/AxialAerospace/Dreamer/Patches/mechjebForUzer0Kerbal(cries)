@@ -1,0 +1,14 @@
+@PART[drm-cargo-bay]:NEEDS[MechJebCore]
+	{
+		MODULE
+		{
+			name = MechJebCore
+		}
+	}
+  @PART[drm-cabin-bay]:NEEDS[MechJebCore]
+	{
+		MODULE
+		{
+			name = MechJebCore
+		}
+	}

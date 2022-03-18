@@ -1,0 +1,15 @@
+@PART[drm-docker-rear]:NEEDS[HullCameraVDS,Dreamer]:FOR[Dreamer]
+{
+	MODULE
+	{
+//For Hullcam on docking port for docking
+	    name = MuMechModuleHullCameraZoom
+	    cameraName = #autoLOC_HULL_PM_007 //NavCam
+	    cameraForward = 0, 1, 0
+	    cameraUp = 0, 0, -1
+	    cameraPosition = 0, 0.07, 0
+	    cameraFoVMax = 60
+	    cameraFoVMin = 60
+	    cameraMode = 1
+	}
+}

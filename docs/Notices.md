@@ -7,7 +7,7 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.1.0
-WhimChaser by Axial Aerospace (WHIM)
+Dreamer (DREAM) by Axial Aerospace
 created: 13 Apr 2022
 updated: 15 May 2022
 
@@ -16,16 +16,15 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# WhimChaser by Axial Aerospace (WHIM)
+# Dreamer (DREAM) by Axial Aerospace
 
 [Home](./index.md)
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "Whim Chaser" is trademark of artwhaley
+* "Dreamer" is trademark of artwhaley
 * "Axial Aerospace" is trademark of artwhaley
-* "WhimChaser" is trademark of artwhaley
-* "WHIM" is trademark of artwhaley
+* "DREAM" is trademark of artwhaley
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal

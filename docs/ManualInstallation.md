@@ -12,7 +12,7 @@ updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Dreamer (DREAM)
+# Dreamer (DREAM) by Axial Aerospace
 
 [Home](./index.md)
 
@@ -61,6 +61,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Localization]
           ...
+        ...
       + [Dreamer]
         + [Compatibility]
           ...
@@ -81,7 +82,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * readme.htm
         ...
       ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -89,11 +89,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON!)][SCON]
-* *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
+* [AxialAeroSpaceLtd (AA/L)][AAL]
 
-[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstruction! (SCON!)"
+[AAL]: https://github.com/zer0Kerbal/AxialAerospaceLtd "AxialAerospace Ltd (AA/L)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"

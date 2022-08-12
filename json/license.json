@@ -2,7 +2,7 @@
  "schemaVersion": 1,
  "label": "License",
  "labelColor": "white",
- "message": "GPLv3",
+ "message": "GPL-3.0",
  "color": "A42E2B",
  "logoColor": "A42E2B",
  "namedLogo": "gnu",

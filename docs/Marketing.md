@@ -6,7 +6,7 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
 
 <!-- Marketing.md v1.0.1.0
-WhimChaser by Axial Aerospace (WHIM)
+Dreamer (DREAM) by Axial Aerospace
 created: 13 Apr 2022
 updated: 15 May 2022
 
@@ -15,7 +15,7 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# WhimChaser by Axial Aerospace (WHIM)
+# Dreamer (DREAM) by Axial Aerospace
 
 [Home](./index.md)
 

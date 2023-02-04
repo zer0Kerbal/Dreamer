@@ -110,7 +110,9 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [Field Training Lab (FTL)][FTL]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Inflatable PicoPort (IPP)][IPP]
-* [Kaboom! (BOOM)][BOOM]
+* [Kaboom! (BOOM)][BOOM] *another way to not go to space today*
+* [Kerbal Inventory System][kis]
+* [Kerbal Joint Reinforcement][kjr]
 * [Lithobrake Exploration Technologies (LET)][LET]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OScience Laboratories (OSL)][OSL]
@@ -125,49 +127,30 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [Stack Inline Lights - Patches (SILP)][SILP]
 * [Stack Inline Lights (SIL)][SIL]
 * [Tweakscale (twk)][twk]
-* [Kerbal Inventory System][kis]
-* [Kerbal Joint Reinforcement][kjr]
-* *either*
-  * [Raster Prop Monitor][rpm]
-  * [MOARdV's Avionics System][mas]
 
 ### Supports
 
-* [On Demand Fuel Cells (ODFC)][ODFC]
+* [ContractConfigurator][cc]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Kerbal Joint Reinforcement - Next][kjr]
+* [KRASH][krsh]
+* [KURS style docking camera (kurs)][kurs]
+* [Less Real Than Real(ism)][lrtr] by [Pehvbot](https://forum.kerbalspaceprogram.com/index.php?/profile/182810-*/)
+* [NEAR-FAR][far]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [RemoteTech (RT)][rt]
+* [SimpleConstruction! (SCON)][SCON]
+* [StageRecovery (sr)][sr]
+* [TweakScale][twk]
 * *either* [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
-* *either*  for fully functioning wheels. may invoke bouts of dizziness.
-  * [Firespitter core][fsc]
-  * [Firespitter][fs]
-
-* [Biomatic (BIO)][BIO]
-* [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
-* [Docking Port Descriptions(DPD)][DPD]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [On Demand Fuel Cells (ODFC))][ODFC]
-* [Kerbal Joint Reinforcement - Next][kje]
-* [Less Real Than Real(ism)][lrtr] by [@Pehvbot][]
 * One of the following:
   * [Raster Prop Monitor][rpm]  Make the IVA look great!
   * [MOARdV's Avionics Systems][mas]  Make the IVA look great!
-
-### Supports
-
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [NEAR-FAR][far]
-* [RemoteTech (RT)][rt]
-* [TweakScale][twk]
-* [KRASH][krsh]
-* [ContractConfigurator][cc]
-* [Firespitter][fscore] for fully functioning wheels. may invoke bouts of dizziness.
-
-
+* *either*  for fully functioning wheels. may invoke bouts of dizziness.
+  * [Firespitter core][fsc]
+  * [Firespitter][fs]
 
 ### Tags
 
@@ -182,13 +165,12 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 ### Credits and Special Thanks
 
-* [artwhaldey][artwhaley] for creating this glorious addon!
-* [`Mike-NZ`][mike-nz]  for taking over and improving/updating this ship through the 1.0 to 1.0.4 stage! He solved some problems I'd been banging my head against and I can't say enough how good it feels to have a project of yours matter enough to someone to put the effort into it that he did!
+* [artwhaley][artwhaley] for creating this glorious addon!
 * see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -237,11 +219,11 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 <!--- license provenance-->
 [LIC:0:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPL-3.0"
 [LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-3.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-GPL-3.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-3.0"
 
-[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL2.0"
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json "GPL-2.0"
+[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPL-3.0"
+[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json "GPL-3.0"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"
@@ -260,33 +242,51 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->
-[BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic"
+<!-- links to add-ons/mods --> 
+[BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"
+[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom! (BOOM)"
+[DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions"
+[FTF]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Facility (FTF)"
+[FTL]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Lab (FTL)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/ "Inflatable PicoPort (IPP)"
+[KAMP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/ "Adjustable Mod Panel (KAMP)"
+[NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
+[OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
+[PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
+[PM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/ "Precise Maneuver (PM)"
+[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
+[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stock Inline Lights Patches (SILP)"
+[SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
+[SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
+[SPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "Shielded PicoPort (SPP)"
+[LET]: https://www.curseforge.com/kerbal/ksp-mods/lithobrakeexplorationtechnologies "Lithobrake Exploration Technologies (LET)"
+[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
+[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Container (PRC)"
 
-[CARGO]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-/ "Simple Cargo Solutions (CARGO)"
-[DREAM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/ "Dreamer (DREAM)"
-[LTEK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/ "LanderTek (LTK)"
-[WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
 [AAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "AxialAerospace Ltd. (AA/L)"
+[CARGO]: https://forum.kerbalspaceprogram.com/index.php?/topic/210255-/ "Simple Cargo Solutions (CARGO)"
+[LTEK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/ "LanderTek (LTEK)"
+[WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
 
 [cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "Contract Configurator"
 [far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[fscore]: https://github.com/snjo/Firespitter/ "Firespitter"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement-Next"
+[fs]: https://github.com/snjo/Firespitter/ "Firespitter Core"
+[fsc]: https://github.com/snjo/Firespitter "Firespitter core"
+[kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
+[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
 [krsh]: https://forum.kerbalspaceprogram.com/index.php?/topic/133082-*/ "KRASH"
 [kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
 [lrtr]: https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*/ "Less Real Than Real(ism)"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
+[mas]: https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*/ "Raster Prop Monitor"
 [rt]: http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-*/ "StageRecovery"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -301,32 +301,19 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
+[steam]: https://steamcommunity.com/id/zeroKerbal/
 
-<!--- statics -->
 [artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/ "artwhaley"
-[mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-*/ "Mike-NZ"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal "
 
 [craft:0]: https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/craft/DreamerLaunchReady.craft "Craft File"
-
-***Docking***
-[![Dreamer Docking](https://img.youtube.com/vi/X_JThlA_xnw/0.jpg)](https://www.youtube.com/watch?v=X_JThlA_xnw)
-***Building***
-[![Dreamer Building](https://img.youtube.com/vi/GQLg9gWbaOI/0.jpg)](https://www.youtube.com/watch?v=GQLg9gWbaOI)
-***Ascent and IVS Tour***
-[![Dreamer Ascent and IVS Tour](https://img.youtube.com/vi/YMo9vXFeigo/0.jpg)](https://www.youtube.com/watch?v=YMo9vXFeigo)
-
-### Hero Shots
-
-***Click on image for Imgur Album***  
-<a href="https://imgur.com/a/gd8Sp"><img src="https://i.imgur.com/NKiQQHk.png" alt="Hero Pose" width="50%" height="50%"> <img src="https://i.imgur.com/YeRx3QM.png" alt="Hero Pose II" width="50%" height="50%"></a>
 
 ### Glorious IVA compliments of RPM
 
@@ -335,11 +322,17 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 #### Connect with me
 
-Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/Dreamer/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
+
+##### Release Schedule
+
+1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
+2. CurseForge. Right now.
+3. SpaceDock (and CKAN users). Soon™ *(the button was pressed)*
 
 <!-- footnotes -->
-[^1]: this isn't a mod. ;P
-[^2]: ***may*** work on other versions (YMMV)
+[^1]: this isn't a mod. ;P  
+[^2]: ***may*** work on other versions (YMMV)  
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*

@@ -1,0 +1,24 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/AxialAerospace/Dreamer/*",
+        "source/*",
+        "**/@thumbs/**",
+        "**/Agencies/**",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/FX/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/Parts/**",
+        "**/PluginData/**",
+        "**/Props/**",
+        "**/SimpleIcons/**",
+        "**/Spaces/**",
+        "**/Textures/**",
+        "**/UI/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}

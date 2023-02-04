@@ -1,5 +1,5 @@
 ---
-permalink: /PartCatalog.html
+permalink: /PartsCatalog.html
 title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK

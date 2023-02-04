@@ -2,7 +2,7 @@
   
 | modName    | Dreamer (DREAM)                                                   |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0                                                           |
+| license    | GPL-2.0                                                           |
 | author     | artwhaley and zer0Kerbal                                          |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/Dreamer)                |

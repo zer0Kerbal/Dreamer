@@ -1,5 +1,5 @@
 {
-	"NAME"	         : "Axial Aerospace Dreamer (AAD)",
+	"NAME"	         : "Dreamer (DREAM) by artwhaley",
 	"URL"            : "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/Dreamer.version",
 	"DOWNLOAD"       : "https://github.com/zer0Kerbal/Dreamer/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/changelog.md",
@@ -32,5 +32,10 @@
 	{
 		"NAME"      : "Dreamer",
 		"DIRECTORY" : "AxialAerospace/Dreamer"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
 	}
 }

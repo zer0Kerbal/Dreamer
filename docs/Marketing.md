@@ -22,59 +22,51 @@ based upon work by LisiasT -->
 ## Marketing Slicks
 
 * Table of Contents)
-  * [Resource Flow](#Resource-Flow)
-  * [Mining Ore](#Mining-Ore)
-  * [Refining Ore to Metal](#Refining-Ore-to-Metal)
-  * [Printing Rocketparts from Metal](#Printing-Rocketparts-from-Metal)
-  * [Building Rockets](#Building-Rockets)
-  * [Finalize build](#Finalize-build)
+  * [Docking](#docking)
+  * [Building](#building)
+  * [Ascent and IVA tour](#ascent-and-iva-tour)
+  * [Space Hero Shots](#space-hero-shots)
+  * [Launch Hero Shots](#launch-hero-shots)
+  * [Glorious IVA compliments of RPM](#glorious-iva-compliments-of-rpm)
 
-### Resource Flow
+### Docking
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
+[![Dreamer Docking](https://img.youtube.com/vi/X_JThlA_xnw/0.jpg)](https://www.youtube.com/watch?v=X_JThlA_xnw)
+
 [top](#Table-of-Contents)
 
-### Mining Ore
+### Building
 
-First mine the ore *(after you find it)*
+[![Dreamer Building](https://img.youtube.com/vi/GQLg9gWbaOI/0.jpg)](https://www.youtube.com/watch?v=GQLg9gWbaOI)
 
-![Mining Ore][IMG:hero:2a]
 [top](#Table-of-Contents)
 
-### Refining Ore to Metal
+### Ascent and IVA Tour
 
-Then refine the ore into metal
+[![Dreamer Ascent and IVA Tour](https://img.youtube.com/vi/YMo9vXFeigo/0.jpg)](https://www.youtube.com/watch?v=YMo9vXFeigo)
 
-![Refining Ore to Metal][IMG:hero:2b]
 [top](#Table-of-Contents)
 
-### Printing Rocketparts from Metal
+### Space Hero Shots
 
-Then using the MPL Science lab, print Rocket Parts
+***Click on image for Imgur Album***  
 
-![Printing Rocketparts from Metal][IMG:hero:2c]
+<a href="https://imgur.com/a/gd8Sp"><img src="https://i.imgur.com/NKiQQHk.png" alt="Hero Pose" width="100%" height="100%"></a>
+
 [top](#Table-of-Contents)
 
-### Building Rockets
+### Launch Hero Shots
 
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
+<a href="https://imgur.com/a/gd8Sp"><img src="https://i.imgur.com/YeRx3QM.png" alt="Hero Pose II" width="100%" height="100%"></a>
 
-![Building Rockets][IMG:hero:2d]
 [top](#Table-of-Contents)
 
-### Finalize build
+### Glorious IVA compliments of RPM
 
-Finalize your build and load up the resources, and
+***Click on image for Imgur IVA Album***  
 
-*PROFIT!*
+<a href="https://imgur.com/a/MbYJn"><img src="https://i.imgur.com/Iq5vOfW.png " alt="Updated IVA" width="75%" height="75%"></a>
 
-![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
+[top](#Table-of-Contents)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->

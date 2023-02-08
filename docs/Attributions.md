@@ -42,6 +42,10 @@ updated: 03 Jun 2022
 
 ### Special Thanks
 
+* [`Mike-NZ`][mike-nz]  for taking over and improving/updating this ship through the 1.0 to 1.0.4 stage! He solved some problems I'd been banging my head against and I can't say enough how good it feels to have a project of yours matter enough to someone to put the effort into it that he did!
+
+[mike-nz]: https://forum.kerbalspaceprogram.com/index.php?/profile/142683-*/ "Mike-NZ"
+
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>

@@ -15,7 +15,7 @@ updated: 17 Jan 2023 -->
 
 A roughly 2/3 scale model of Kierra Kevada Corp's Dream Kaser vertical launch spaceplane with cargo bay and docking nosecone!
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley] 
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -36,7 +36,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [Link to Craft File][craft:0]
 
-### Preable by [artwhaley][artwhaley
+### Preable by [artwhaley][artwhaley]
 
 > What's included
 >

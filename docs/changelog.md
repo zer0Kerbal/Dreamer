@@ -51,6 +51,8 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * updates #91 - Archival Releases
   * closes #97 - 1.2.0.0 - Archival Release
 
+---
+
 ### Version 1.1.0.0-release `<Archival Release>`
 
 * 21 Nov 2014

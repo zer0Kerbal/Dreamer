@@ -34,6 +34,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![KSP Mods - Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://youtu.be/Oj1etoybd7E)
 
+[YouTube test/demo I](https://youtu.be/aAUGHN3GlAs)
+[YouTube test/demo II](https://youtu.be/fx9IibZhpg4)
+
 [Link to Craft File][craft:0]
 
 ### Preable by [artwhaley][artwhaley]

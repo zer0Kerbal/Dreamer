@@ -1,0 +1,41 @@
+{
+	"NAME"	         : "Dreamer (DREAM) by artwhaley",
+	"URL"            : "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/Dreamer.version",
+	"DOWNLOAD"       : "https://github.com/zer0Kerbal/Dreamer/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"		    : "zer0Kerbal",
+		"REPOSITORY"		: "Dreamer",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 99,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 5
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 1
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Dreamer",
+		"DIRECTORY" : "AxialAerospace/Dreamer"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
+	}
+}

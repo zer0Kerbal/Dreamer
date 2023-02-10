@@ -20,8 +20,8 @@
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * Can now search for `drm` or `dreamer`in the editor search bar to find all Dreamer parts
-* ~ total parts
-  * Common Core / Cent stages
+* ~ 23 otal parts
+  * CCB / Centaur stages
   * Dreamer
     * two pods, one with and one without cargo bay
 

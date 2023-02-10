@@ -36,6 +36,8 @@
   * [x] 0.8.0.0
   * [x] 0.2.0.0
   * [x] 0.1.0.0
+* closes #97 - 1.2.0.0 - Archival Release
+* closes #98 - 1.3.0.0 - Archival Release
 * closes #91 - Archival Releases
 
 ### Localization 1.3.99.0
@@ -192,16 +194,23 @@
 
 ---
 
-## Version 1.3.0.0 - Original Author
+## Version 1.3.0.0-release `<Archival Release>`
 
+* 21 Nov 2015
 * Updated to 1.0.5
+
 * configured to not explode on reentry. Mostly sometimes.
+
+* Issues
+  * closes #91 - Archival Releases
+  * closes #98 - 1.3.0.0 - Archival Release
 
 ---
 
-## Version 1.2.0.0 - Original Author
+## Version 1.2.0.0-release `<Archival Release>`
 
 * 29 Nov 2014
+* Updated to 1.0.4
 
 * Includes a brand new IVA with completely custom props
 * no more Alcor dependency
@@ -212,23 +221,27 @@
 * Please keep feedback coming!
 * I'm not actively playing the ship much, at the moment, so you guys are the only way I'll know what needs work!
 
+* Issues
+  * updates #91 - Archival Releases
+  * closes #97 - 1.2.0.0 - Archival Release
+
 ---
 
-### Version 1.1.0.0 - Original Author
+### Version 1.1.0.0-release `<Archival Release>`
 
 * 21 Nov 2014
 * no changelog provided
 
 ---
 
-### Version 1.0.1.0 - Original Author
+### Version 1.0.1.0-release `<Archival Release>`
 
 * 17 Nov 2014
 * no changelog provided
 
 ---
 
-## Version 1.0.0.0 - Original Author
+## Version 1.0.0.0-release `<Archival Release>`
 
 * 17 Nov 2014
 * no changelog provided

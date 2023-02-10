@@ -12,6 +12,7 @@
 
 ## Version 1.3.0.0-release `<Archival Release>`
 
+* 21 Nov 2015
 * Updated to 1.0.5
 * configured to not explode on reentry. Mostly sometimes.
 

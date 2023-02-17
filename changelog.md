@@ -17,11 +17,52 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Summary
+### Summary 1.3.99.1
 
 * bug fixes
 * flight and other tweaks
   * thank you [DeadJohn aka jvsperoni](https://github.com/jvsperoni)
+
+### Changes 1.3.99.1
+
+* [drm-cabin-bay]
+  * move SkyHawkScienceSystems patching into patch :D
+  * comment out several part modules.
+  * variant update
+* [drm-cabin-nobay]
+  * move SkyHawkScienceSystems patching into patch :D
+  * comment out several part modules.
+  * correct seat count
+  * variant update
+* [drm-cargo-bay]
+  * move SkyHawkScienceSystems patching into patch :D
+  * comment out several part modules.
+  * correct seat count (0)
+* [drm-ccb-eng]
+  * comment out several part modules.
+* [drm-atlas-inter]
+  * comment out several part modules.
+  * attachRules = x,x,x,x,1
+  * [ModuleDecouple] down to 100 from 600
+* [drm-centaur]
+  * reduce RW by 50%
+  * variant update
+* [drm-decoupler]
+  * attachRules = x,x,x,x,1
+  * [ModuleDecouple] up to 100 from 30
+* [drm-nose-nodock]
+  * comment out several part modules.
+* [drm-tail]
+  * part in flux
+  * what to do about airbrakes? maybe optional patch to enable/disable?
+  * need to recalc drag cubes with/without airbrakes
+* [drm-wing-left]
+  * comment out several part modules.
+* [drm-wing-right]
+  * comment out several part modules.
+* add [drm-engine-mono]
+  * thank you [DeadJohn aka jvsperoni](https://github.com/jvsperoni)
+
 
 * Issues
   * closes #104 - Dreamer (DREAM) 1.3.99.1-prerelease `<Thank you artwhaley>` editio

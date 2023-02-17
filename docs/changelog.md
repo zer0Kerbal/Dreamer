@@ -75,7 +75,6 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * add [drm-engine-mono]
   * thank you [DeadJohn aka jvsperoni](https://github.com/jvsperoni)
 
-
 * Issues
   * closes #104 - Dreamer (DREAM) 1.3.99.1-prerelease `<Thank you artwhaley>` editio
   * closes #105 - 1.3.99.1 Additional Tasks

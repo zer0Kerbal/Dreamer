@@ -34,6 +34,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![KSP Mods - Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://youtu.be/Oj1etoybd7E)
 
+[YouTube test/demo I](https://youtu.be/aAUGHN3GlAs)
+[YouTube test/demo II](https://youtu.be/fx9IibZhpg4)
+
 [Link to Craft File][craft:0]
 
 ### Preable by [artwhaley][artwhaley]
@@ -221,9 +224,9 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
 [LIC:0:shd]: https://img.shields.io/badge/License-GPL-3.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-3.0"
 
-[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPL-3.0"
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json "GPL-3.0"
+[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
+[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json "GPL-2.0"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Curseforge"

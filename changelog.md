@@ -10,6 +10,27 @@
 | spacedock  | (https://spacedock.info/mod/2999)                                 |
 | ckan       | Dreamer                                                           |
 
+## Version 1.3.99.1-prerelease - `<Thank you DeadJohn>` edition
+
+* Released
+  * 16 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary
+
+* bug fixes
+* flight and other tweaks
+  * thank you [DeadJohn aka jvsperoni](https://github.com/jvsperoni)
+
+* Issues
+  * closes #104 - Dreamer (DREAM) 1.3.99.1-prerelease `<Thank you artwhaley>` editio
+  * closes #105 - 1.3.99.1 Additional Tasks
+  * closes #108 - [BUG] crew capacity of pods
+  * updates #109 - [BUG] engines falling off while shielded by interstage adapter
+
+---
+
 ## Version 1.3.99.0-adoption - `<Thank you artwhaley>` edition
 
 * Released

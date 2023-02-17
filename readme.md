@@ -287,6 +287,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [rt]: http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
 [sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-*/ "StageRecovery"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[sky]: https://forum.kerbalspaceprogram.com/index.php?/topic/206109-*/ "Skyhawk Science System"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
